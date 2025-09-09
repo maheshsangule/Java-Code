@@ -1,35 +1,31 @@
-package Lab;
+package lab2.q1;
+
+// Sangule Mahesh Arjun
+// Bits ID : 202419TW110
 
 class Student {
-
     private int studentId;
     private String name;
     private float marks;
 
-    //q2
-    private static int totalStudents;
-    final String collegeName="IIT EduTracker";
+    Student() {
+        this(0, "Unknown", 0.0f);
+    }
 
-    public Student(int studentId, String name, float marks) {
-       totalStudents++;
+    Student(int studentId, String name, float marks) {
         this.studentId = studentId;
         this.name = name;
         this.marks = marks;
     }
-    public Student() {
-        this(1, "Mahesh", 91.0f);
+
+    void showDetails() {
+        System.out.println("ID: " + this.studentId + ", Name: " + this.name + ", Marks: " + this.marks);
     }
 
-    public void showDetails() {
-        System.out.println("Student ID: " + this.studentId);
-        System.out.println("Name: " + this.name);
-        System.out.println("Marks: " + this.marks);
+    public static void main(String[] args) {
+        Student s1 = new Student();
+        Student s2 = new Student(101, "Rahul", 85.5f);
+        s1.showDetails();
+        s2.showDetails();
     }
-
-
-    public void updateMarks(float marks){
-        this.marks=marks;
-    }
-
 }
-
