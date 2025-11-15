@@ -1,10 +1,10 @@
 package polymorphism;
 
 public class Animal{
-    public void sayHello()
+    public int sayHello()
     {
         System.out.println("Hello from Animal");
-
+        return 0;
     }
 
     public void sayBye(){

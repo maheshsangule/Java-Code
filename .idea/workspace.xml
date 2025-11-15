@@ -5,53 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c13f851b-656e-4d0d-b169-2a4e31f36e11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EolinkTagSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/EolinkUploadSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/ArrayDequeEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/ArrayListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/LinkedListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/Exc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/FileExce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/customexceptions/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/customexceptions/InsufficientFundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/customexceptions/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithreading/ThreadEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ParentSeth.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/ParentSeth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstraction/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/abstraction/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/Inheritance/ParentSeth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/Inheritance/ParentSeth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/Inheritance/Single.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/Inheritance/Single.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/Inheritance/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/Inheritance/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Programs/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/abstraction/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/abstraction/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/abstraction/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/abstraction/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/abstraction/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/abstraction/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/abstraction/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/abstraction/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/arguments/Args.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/arguments/Args.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/arguments/Conditional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/arguments/Conditional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/arguments/ScannerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/arguments/ScannerDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/array_string/ArrayDeclaration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/array_string/ArrayDeclaration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/array_string/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/array_string/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/constructor/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/constructor/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/constructor/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/constructor/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/lab2/edu/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/lab2/edu/MainApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/lab2/edu/main/Mentor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/lab2/edu/main/Mentor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/lab2/edu/main/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/lab2/edu/main/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/lab2/edu/utils/StatusPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/lab2/edu/utils/StatusPrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/lab2/q1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/lab2/q1/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/lab2/q2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/lab2/q2/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/lab2/q3/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/lab2/q3/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/lab2/q4/Mentor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/lab2/q4/Mentor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/lab2/q4/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/lab2/q4/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/loopingstatements/JumpStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/loopingstatements/JumpStatements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/overloading/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/overloading/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/overloading/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/overloading/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Programs/polymorphism/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/polymorphism/Animal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Programs/polymorphism/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/polymorphism/Calculator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Programs/polymorphism/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/polymorphism/Cat.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Programs/polymorphism/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/polymorphism/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/staticKeyword/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/staticKeyword/School.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/staticKeyword/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/staticKeyword/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/staticKeyword/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/staticKeyword/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/staticKeyword/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/staticKeyword/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/streams/CopyingFromOneToAnother.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/streams/CopyingFromOneToAnother.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/thisKeyword/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/thisKeyword/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programs/thisKeyword/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programs/thisKeyword/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticKeyword/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/staticKeyword/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +41,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -93,32 +70,42 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MainApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Github Projects/Android/Java-Code&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;gradle.compiler&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayDequeEx.executor": "Run",
+    "Application.ArrayListEx.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Ex1.executor": "Run",
+    "Application.Exc2.executor": "Run",
+    "Application.FileExce.executor": "Run",
+    "Application.LinkedListEx.executor": "Run",
+    "Application.MainApp.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ThreadEx1.executor": "Run",
+    "Application.array_string.Test.executor": "Run",
+    "Application.overloading.Test.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Github Projects/Android/Java-Code",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "gradle.compiler",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Bits Pilani\Semester 2\Object Oriented Programming and Design\Java Programs\Programs\lab2\q3" />
@@ -132,13 +119,65 @@
       <recent name="lab2.q2" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstraction.Test" />
+  <component name="RunManager" selected="Application.Ex1">
+    <configuration name="ArrayDequeEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.ArrayDequeEx" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstraction.*" />
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.ArrayListEx" />
+      <module name="Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.Ex1" />
+      <module name="Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.LinkedListEx" />
+      <module name="Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.ThreadEx1" />
+      <module name="Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,7 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.ThreadEx1" />
+        <item itemvalue="Application.ArrayDequeEx" />
+        <item itemvalue="Application.ArrayListEx" />
+        <item itemvalue="Application.LinkedListEx" />
       </list>
     </recent_temporary>
   </component>

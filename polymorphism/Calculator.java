@@ -12,15 +12,18 @@ public class Calculator {
     public static void main(String[] args) {
 
         Calculator cal = new Calculator();
+        Animal animal=new Animal();
 
-        System.out.println(cal.add(10, 20));
+        System.out.println(animal.sayHello());
+
+        System.out.println(add(10, 20));
         System.out.println(cal.add(10, 20, 50));
         System.out.println(cal.add(10.00, 20.00));
-        System.out.println(cal.add(10.00, 20.00));
+        System.out.println(cal.add(100f, 200f));
 
     }
 
-    int add(int a, int b) {
+     static int add(int a, int b) {
         return a + b;
     }
 

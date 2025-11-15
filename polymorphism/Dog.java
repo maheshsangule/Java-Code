@@ -1,9 +1,10 @@
 package polymorphism;
 
 public class Dog extends Animal{
-    public void sayHello()
+    public int  sayHello()
     {
         System.out.println("Hello from Dog");
+        return 0;
     }
 
 
