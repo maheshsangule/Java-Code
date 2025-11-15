@@ -1,6 +1,5 @@
 package staticKeyword;
 
-import jdk.jshell.execution.Util;
 
 public class Test {
 
